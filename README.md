@@ -1,4 +1,4 @@
-# Imperio Azteca 
+# Imperio Azteca Distribution
 
 Sitio web oficial de **Imperio Azteca Distribution LLC**, donde encontrarás
 catálogo de dulces y botanas mexicanas.
